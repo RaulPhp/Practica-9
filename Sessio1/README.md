@@ -1,1 +1,1 @@
-Enunciado sesion1
+Enunciado de la sesion1
